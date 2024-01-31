@@ -2,6 +2,8 @@
 <p>Hello! My name is Natã martins, I'm a frontend developer, I entered the world of programming in 2021, since then, developing interfaces and software is not just a skill, but a true passion.</p>
 <p>I specialize in web development, my journey reflects not only constant learning, but also a dedication to transforming each line of code into impactful solutions.</p>
 
+<p>First Github: https://github.com/natamartins</p>
+
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ## <div displa="flex" aling-aitems="center" text-aling="center">  <img src="https://media.giphy.com/media/UuC5AgQnh4tWZg2yrd/200.webp" width="50"> Skills:</div>
