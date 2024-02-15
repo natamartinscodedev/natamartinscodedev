@@ -1,4 +1,4 @@
-# Front End Developer © JavaScript • TypeScript • React • Next.JS
+# Front-End Developer | JavaScript & TypeScript | React.js & Next.js 
 <p>Hello! My name is Natã martins, I'm a frontend developer, I entered the world of programming in 2021, since then, developing interfaces and software is not just a skill, but a true passion.</p>
 <p>I specialize in web development, my journey reflects not only constant learning, but also a dedication to transforming each line of code into impactful solutions.</p>
 
