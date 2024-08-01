@@ -1,6 +1,21 @@
 # Software  Developer | JavaScript & TypeScript | React.js & Next.js 
 <p>Hello! My name is Natã martins, I'm a frontend developer, I entered the world of programming in 2021, since then, developing interfaces and software is not just a skill, but a true passion.</p>
-<p>I specialize in web development, my journey reflects not only constant learning, but also a dedication to transforming each line of code into impactful solutions.</p>
+<p>
+Front End Developer, I entered the world of programming in 2021, and since then, developing interfaces and software has become not just a skill but a true passion. I specialize in programming languages and technologies such as JavaScript/TypeScript, ReactJS, and NextJS.
+</p>
+
+<p>
+Currently, I am focused on Web Development and Software Development, utilizing modern technologies such as React, Next.js, JavaScript (ES6+, Ember.js), Node.js, TypeScript, HTML5, CSS3, BFF (Backend for Frontend) integrations with REST APIs, styling libraries like Sass, Styled Components, Tailwind CSS, and Material UI, employing the concepts of PWAs (Progressive Web Apps) to ensure websites are always responsive and accessible across various screen sizes and mobile devices. I have experience with TDD (Test-Driven Development) using Jest and Cypress and with Clean Code principles to keep code clean, accessible to other developers, and reusable. Additionally, I have experience with UI/UX Design, Figma, and the JS ecosystem: Babel, Webpack.
+</p>
+<p>
+Furthermore, I have experience with MongoDB, Firebase, Java (Maven, Spring Boot), Kotlin, Docker, Storybook, and VueJS.
+</p>
+<p>
+My goal is to continue growing as a professional, developing quality products, transforming lives, and learning new technologies.
+</p>
+<p>
+ CV: https://drive.google.com/file/d/1VSKbW86io5b87nClp6U5MgJfCYiWVEkS/view?usp=sharing
+</p>
 
 <p>🛑 Portfolio: https://nmprofile.vercel.app/</p>
 <p>🛑 First Github: https://github.com/natamartins</p>
