@@ -13,9 +13,6 @@ Furthermore, I have experience with MongoDB, Firebase, Java (Maven, Spring Boot)
 <p>
 My goal is to continue growing as a professional, developing quality products, transforming lives, and learning new technologies.
 </p>
-<p>
- CV: https://drive.google.com/file/d/1VSKbW86io5b87nClp6U5MgJfCYiWVEkS/view?usp=sharing
-</p>
 
 <p>🛑 Portfolio: https://nmprofile.vercel.app/</p>
 <p>🛑 First Github: https://github.com/natamartins</p>
