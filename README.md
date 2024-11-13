@@ -1,4 +1,4 @@
-# Software  Developer | JavaScript & TypeScript | React.js & Next.js 
+# CEO & Founder @SimpleProfile - Desenvolvedor Front-End | JavaScript ES6+ | TypeScript | ReactJS | NextJS | NodeJS
 <p>Hello! My name is Natã martins, I'm a frontend developer, I entered the world of programming in 2021, since then, developing interfaces and software is not just a skill, but a true passion.</p>
 <p>
 Frontend developer with over 3 years of experience, passionate about creating innovative interfaces and software. Specialist in modern technologies such as JavaScript ES6+, TypeScript, ReactJS, NextJS, React Native and NodeJS, with a focus on creating high-performance and scalable products.
