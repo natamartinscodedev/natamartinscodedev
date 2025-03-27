@@ -6,6 +6,11 @@ Proficient in Sass, Styled Components, Tailwind CSS, and Material UI, applying P
 
 Goal: Build impactful solutions and transform lives through technology.
 Key Skills: React, JavaScript, BFF, PWAs, Frontend Performance, TDD.
+
+<b>Descomplica – Bachelor’s in Systems Analysis and Development (Online)
+2025 – In Progress
+Key subjects: Programming Logic, Requirements Analysis, Software
+Development</b>
 </p>
 
 <p>🛑 Portfolio: https://nmprofile.vercel.app/</p>
