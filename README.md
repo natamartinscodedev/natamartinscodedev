@@ -1,17 +1,11 @@
-# CEO & Founder @SimpleProfile - Desenvolvedor Front-End | JavaScript ES6+ | TypeScript | ReactJS | NextJS | NodeJS
-<p>Hello! My name is Natã martins, I'm a frontend developer, I entered the world of programming in 2021, since then, developing interfaces and software is not just a skill, but a true passion.</p>
+# Frontend Engineer | Systems Analysis | Prompt Engineer | Software Developer| JavaScript ES6+ | TypeScript | ReactJS | NextJS | NodeJS
 <p>
-Frontend developer with over 3 years of experience, passionate about creating innovative interfaces and software. Specialist in modern technologies such as JavaScript ES6+, TypeScript, ReactJS, NextJS, React Native and NodeJS, with a focus on creating high-performance and scalable products.
+ Frontend Engineer | Systems Analysis | Prompt Engineer | Software Developer with 3+ years of experience, specializing in JavaScript ES6+, TypeScript, ReactJS, NextJS, and NodeJS. Focused on scalable, high-performance products, with expertise in BFF (Backend for Frontend) integrations and REST APIs, AWS
 
-I have extensive experience in BFF (Backend for Frontend) integrations with REST APIs and in the use of libraries such as Sass, Styled Components, Tailwind CSS and Material UI, applying PWAs (Progressive Web Apps) concepts to ensure that applications are always responsive and accessible on multiple devices.
+Proficient in Sass, Styled Components, Tailwind CSS, and Material UI, applying PWA concepts for responsive and accessible applications. Clean Code principles. Experience with UI/UX (Figma), Babel, Webpack, MongoDB, Firebase, Java (Spring Boot), Kotlin, Docker, Storybook, and VueJS.
 
-My practices include Test-Driven Development (TDD) with Jest and Cypress, in addition to following Clean Code principles, ensuring clean, reusable and accessible code for other developers. I also have experience with UI/UX Design using Figma, Experience with the JavaScript ecosystem (Babel, Webpack).
-
-Additionally, I have experience with MongoDB, Firebase, Java (Maven, Spring Boot), Kotlin, Docker, Storybook, and VueJS.
-
-My goal is to continue growing as a developer, creating impactful solutions, transforming lives through technology, and continually learning new tools and technologies.
-
-Key skills: React Developer, JavaScript Specialist, BFF Integration, PWAs Expert, Frontend Performance Optimization, Test-Driven Development (TDD).
+Goal: Build impactful solutions and transform lives through technology.
+Key Skills: React, JavaScript, BFF, PWAs, Frontend Performance, TDD.
 </p>
 
 <p>🛑 Portfolio: https://nmprofile.vercel.app/</p>
