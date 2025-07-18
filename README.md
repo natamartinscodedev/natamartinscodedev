@@ -10,9 +10,24 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 <p>
-I’m a passionate programmer with over 3 years of experience building scalable, high-performance applications using modern web technologies such as JavaScript (ES6+), TypeScript, ReactJS, NextJS, and NodeJS. I specialize in Frontend, BFF (Backend for Frontend) solutions, and RESTful API integrations with a strong focus on performance and user experience and focus on Web2 and Web3. tests using Jest, React Testing Library and Cypress. I'm studing Blockchain, Web 3. 
+Front-End Developer with over 4 years of experience building scalable, accessible, and high-performance applications — always focused on performance, UX, and clean code.
 
-Professionally, I have gained substantial experience in working with Sass, Styled Components, Tailwind CSS, Material UI, PWA standards to deliver responsive, accessible, and mobile-first applications. Clean Code, UI/UX design with Figma. Experience with tools and frameworks like MongoDB, Firebase, Java (Spring Boot), Kotlin, Docker, Babel, Webpack, Storybook, and VueJS.
+I work with modern technologies such asHTML 5, CSS 3, JavaScript ( ES6+), TypeScript, SASS, React.js, Next.js, Node.js, Jest, cypress, TDD, SSR, SSG, CSR, Princípios SOLID, modularização, Clean Architecture, performance, Components, Hooks, CI/CD and soluctions BFF/API RESTful.
+
+I have proven expertise in:
+• Digital accessibility (WCAG) and web performance 
+• Styling with Tailwind CSS, Sass, Styled Components, and Material UI 
+• UI/UX best practices using Figma 
+• Automated testing: Jest, Cypress, React Testing Library 
+• Modern architectures: PWA, microservices, CI/CD, Clean Code
+
+I'm currently exploring Web3 and Artificial Intelligence applied to digital products, always aiming for meaningful innovation.
+
+My mission is to build solutions that improve lives, combining technology, empathy, and product vision. I value collaborative environments, clear communication, and continuous learning.
+
+Outside of coding? My hobbies are drinking coffee and playing the guitar — because great ideas often come in silence.
+
+if you're looking for a dev with an ownership mindset, hands-on experience, and real passion for technology, let's connect.
 </p>
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
