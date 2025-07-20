@@ -7,29 +7,6 @@
 
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
-
-<p>
-Front-End Developer with over 4 years of experience building scalable, accessible, and high-performance applications — always focused on performance, UX, and clean code.
-
-I work with modern technologies such asHTML 5, CSS 3, JavaScript ( ES6+), TypeScript, SASS, React.js, Next.js, Node.js, Jest, cypress, TDD, SSR, SSG, CSR, Princípios SOLID, modularização, Clean Architecture, performance, Components, Hooks, CI/CD and soluctions BFF/API RESTful.
-
-I have proven expertise in:
-• Digital accessibility (WCAG) and web performance 
-• Styling with Tailwind CSS, Sass, Styled Components, and Material UI 
-• UI/UX best practices using Figma 
-• Automated testing: Jest, Cypress, React Testing Library 
-• Modern architectures: PWA, microservices, CI/CD, Clean Code
-
-I'm currently exploring Web3 and Artificial Intelligence applied to digital products, always aiming for meaningful innovation.
-
-My mission is to build solutions that improve lives, combining technology, empathy, and product vision. I value collaborative environments, clear communication, and continuous learning.
-
-Outside of coding? My hobbies are drinking coffee and playing the guitar — because great ideas often come in silence.
-
-if you're looking for a dev with an ownership mindset, hands-on experience, and real passion for technology, let's connect.
-</p>
-
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ## <div displa="flex" aling-aitems="center" text-aling="center">  <img src="https://media.giphy.com/media/UuC5AgQnh4tWZg2yrd/200.webp" width="50"> Skills:</div>
@@ -80,3 +57,26 @@ if you're looking for a dev with an ownership mindset, hands-on experience, and 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natamartinscodedev&theme=radical&layout=compact"/>
  </a>
 </div>
+
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+
+<p>
+Front-End Developer with over 4 years of experience building scalable, accessible, and high-performance applications — always focused on performance, UX, and clean code.
+
+I work with modern technologies such asHTML 5, CSS 3, JavaScript ( ES6+), TypeScript, SASS, React.js, Next.js, Node.js, Jest, cypress, TDD, SSR, SSG, CSR, Princípios SOLID, modularização, Clean Architecture, performance, Components, Hooks, CI/CD and soluctions BFF/API RESTful.
+
+I have proven expertise in:
+• Digital accessibility (WCAG) and web performance 
+• Styling with Tailwind CSS, Sass, Styled Components, and Material UI 
+• UI/UX best practices using Figma 
+• Automated testing: Jest, Cypress, React Testing Library 
+• Modern architectures: PWA, microservices, CI/CD, Clean Code
+
+I'm currently exploring Web3 and Artificial Intelligence applied to digital products, always aiming for meaningful innovation.
+
+My mission is to build solutions that improve lives, combining technology, empathy, and product vision. I value collaborative environments, clear communication, and continuous learning.
+
+Outside of coding? My hobbies are drinking coffee and playing the guitar — because great ideas often come in silence.
+
+if you're looking for a dev with an ownership mindset, hands-on experience, and real passion for technology, let's connect.
+</p>
