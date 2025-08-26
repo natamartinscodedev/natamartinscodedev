@@ -80,3 +80,5 @@ Outside of coding? My hobbies are drinking coffee and playing the guitar — bec
 
 if you're looking for a dev with an ownership mindset, hands-on experience, and real passion for technology, let's connect.
 </p>
+
+![Snake animation](https://github.com/natamartinscodedev/natamartinscodedev/blob/output/github-contribution-grid-snake.svg)
