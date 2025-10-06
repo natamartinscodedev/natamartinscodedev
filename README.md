@@ -63,24 +63,17 @@
 <h2> 👨🏻‍💻 &nbsp;Sobre mim</h2>
 
 <p>
-Desenvolvedor Front-End com mais de 4 anos de experiência na construção de aplicativos escaláveis, acessíveis e de alto desempenho — sempre focado em desempenho, UX e código limpo.
+Desenvolvedor de Software Pleno | Desenvolvedor Frontend | ReactJS, NextJS | JavaScript (ES6+), TypeScript | Node.js
 
-Trabalho com tecnologias modernas como HTML 5, CSS 3, JavaScript (ES6+), TypeScript, SASS, React.js, Next.js, Node.js, Jest, cypress, TDD, SSR, SSG, CSR, Princípios SOLID, modularização, Clean Architecture, performance, Componentes, Hooks, CI/CD e soluções BFF/API RESTful.
+Olá, sou o Natã Martins, Desenvolvedor Front-End a mais de +3 anos, apaixonado por criar experiências de aplicações escaláveis, acessíveis e de alto desempenho, sempre com foco em performance, UX e código limpo.
 
-Experiências:
-• Digital accessibility (WCAG) and web performance 
-• Styling with Tailwind CSS, Sass, Styled Components, and Material UI 
-• UI/UX best practices using Figma 
-• Testes automatizados: Jest, Cypress, React Testing Library 
-• Modern architectures: PWA, microservices, CI/CD, Clean Code
+Atuo com tecnologias modernas como HTML5, CSS3, JavaScript ( ES6+), TypeScript, React.js, Next.js (SSR, SSG, App Router, Server Components), WCAG 2.1, Node.js, Princípios SOLID, modularização, Clean Architecture, performance, Components, Hooks, CI/CD e soluções BFF, REST APIs, Git & GitHub, testes automatizados (Jest, React Testing Library), acessibilidade digital (WCAG) e performance web, estilização com Tailwind CSS, Sass, Styled Components, Material UI, boas práticas de UI/UX com Figma, testes automatizados: Jest, Cypress, React Testing Library, arquiteturas modernas: PWA, microsserviços, CI/CD, Clean Code
 
-Atualmente estou explorando Web3 e Inteligência Artificial aplicadas a produtos digitais, sempre buscando inovação significativa.
+Minha missão é construir soluções que melhorem vidas, combinando tecnologia, empatia e visão de produto. Valorizo ambientes colaborativos, comunicação clara e aprendizado contínuo.
 
-Minha missão é construir soluções que melhorem vidas, combinando tecnologia, empatia e visão de produto. Valorizo ​​ambientes colaborativos, comunicação clara e aprendizado contínuo.
+Fora do código? Meus hobbies são tomar café e tocar violão, porque grandes ideias muitas vezes nascem no silêncio.
 
-Fora da programação? Meus hobbies são tomar café e tocar violão — porque grandes ideias geralmente surgem em silêncio.
-
-Se você está procurando um desenvolvedor com mentalidade de proprietário, experiência prática e verdadeira paixão por tecnologia, vamos nos conectar.
+🐺Don't think just do it, 1% everyday
 </p>
 
 ![Snake animation](https://github.com/natamartinscodedev/natamartinscodedev/blob/output/github-contribution-grid-snake.svg)
