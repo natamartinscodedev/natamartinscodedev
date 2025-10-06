@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, sou Natã Martins, um Desenvolvedor Frontend!</h1>
+<h1>👋 &nbsp;Olá, sou o Natã Martins, um Desenvolvedor Frontend!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/nata-martins/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/natamartinss"><img src="https://img.shields.io/badge/-My%20Professional%20IG_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
