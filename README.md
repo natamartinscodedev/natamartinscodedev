@@ -51,7 +51,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-<h2>🚀 &nbsp;My GitHub Stats</h2>
+<h2>🚀 &nbsp;Minhas estatísticas do GitHub</h2>
 
 <div align="center" display="Flex" gap="200px">
  <a href="https://github.com/natamartins/natamartins">
@@ -60,7 +60,7 @@
  </a>
 </div>
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+<h2> 👨🏻‍💻 &nbsp;Sobre mim</h2>
 
 <p>
 Desenvolvedor Front-End com mais de 4 anos de experiência na construção de aplicativos escaláveis, acessíveis e de alto desempenho — sempre focado em desempenho, UX e código limpo.
