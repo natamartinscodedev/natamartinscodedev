@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Hey, I'm Natã Martins, a passionate Software Developer!</h1>
+<h1>👋 &nbsp;Olá, sou Natã Martins, um Desenvolvedor Frontend!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/nata-martins/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/natamartinss"><img src="https://img.shields.io/badge/-My%20Professional%20IG_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -9,10 +9,10 @@
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
-<p>My first github: https://github.com/natamartins?tab=repositories</p>
+<p>My primeiro github: https://github.com/natamartins?tab=repositories</p>
 
-## <div displa="flex" aling-aitems="center" text-aling="center">  <img src="https://media.giphy.com/media/UuC5AgQnh4tWZg2yrd/200.webp" width="50"> Skills:</div>
- These are some of the technologies I use on a daily basis
+## <div displa="flex" aling-aitems="center" text-aling="center">  <img src="https://media.giphy.com/media/UuC5AgQnh4tWZg2yrd/200.webp" width="50"> Habilidades:</div>
+ Estas são algumas das tecnologias que utilizo diariamente
  
 <div align="center">
  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">      
@@ -28,7 +28,7 @@
  <img src="https://media.giphy.com/media/gHnBLyeYE6hboT3t3o/200.webp" width="100">
 </div>
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
+<h2> 🛠 &nbsp;Pilha de tecnologia</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -63,24 +63,24 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 <p>
-Front-End Developer with over 4 years of experience building scalable, accessible, and high-performance applications — always focused on performance, UX, and clean code.
+Desenvolvedor Front-End com mais de 4 anos de experiência na construção de aplicativos escaláveis, acessíveis e de alto desempenho — sempre focado em desempenho, UX e código limpo.
 
-I work with modern technologies such asHTML 5, CSS 3, JavaScript ( ES6+), TypeScript, SASS, React.js, Next.js, Node.js, Jest, cypress, TDD, SSR, SSG, CSR, Princípios SOLID, modularização, Clean Architecture, performance, Components, Hooks, CI/CD and soluctions BFF/API RESTful.
+Trabalho com tecnologias modernas como HTML 5, CSS 3, JavaScript (ES6+), TypeScript, SASS, React.js, Next.js, Node.js, Jest, cypress, TDD, SSR, SSG, CSR, Princípios SOLID, modularização, Clean Architecture, performance, Componentes, Hooks, CI/CD e soluções BFF/API RESTful.
 
-I have proven expertise in:
+Experiências:
 • Digital accessibility (WCAG) and web performance 
 • Styling with Tailwind CSS, Sass, Styled Components, and Material UI 
 • UI/UX best practices using Figma 
-• Automated testing: Jest, Cypress, React Testing Library 
+• Testes automatizados: Jest, Cypress, React Testing Library 
 • Modern architectures: PWA, microservices, CI/CD, Clean Code
 
-I'm currently exploring Web3 and Artificial Intelligence applied to digital products, always aiming for meaningful innovation.
+Atualmente estou explorando Web3 e Inteligência Artificial aplicadas a produtos digitais, sempre buscando inovação significativa.
 
-My mission is to build solutions that improve lives, combining technology, empathy, and product vision. I value collaborative environments, clear communication, and continuous learning.
+Minha missão é construir soluções que melhorem vidas, combinando tecnologia, empatia e visão de produto. Valorizo ​​ambientes colaborativos, comunicação clara e aprendizado contínuo.
 
-Outside of coding? My hobbies are drinking coffee and playing the guitar — because great ideas often come in silence.
+Fora da programação? Meus hobbies são tomar café e tocar violão — porque grandes ideias geralmente surgem em silêncio.
 
-if you're looking for a dev with an ownership mindset, hands-on experience, and real passion for technology, let's connect.
+Se você está procurando um desenvolvedor com mentalidade de proprietário, experiência prática e verdadeira paixão por tecnologia, vamos nos conectar.
 </p>
 
 ![Snake animation](https://github.com/natamartinscodedev/natamartinscodedev/blob/output/github-contribution-grid-snake.svg)
