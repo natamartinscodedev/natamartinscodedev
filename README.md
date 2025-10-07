@@ -9,8 +9,6 @@
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
-<p>My primeiro github: https://github.com/natamartins?tab=repositories</p>
-
 ## <div displa="flex" aling-aitems="center" text-aling="center">  <img src="https://media.giphy.com/media/UuC5AgQnh4tWZg2yrd/200.webp" width="50"> Habilidades:</div>
  Estas são algumas das tecnologias que utilizo diariamente
  
