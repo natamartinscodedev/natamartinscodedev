@@ -63,7 +63,7 @@
 <p>
 Desenvolvedor de Software Pleno | Desenvolvedor Frontend | ReactJS, NextJS | JavaScript (ES6+), TypeScript | Node.js
 
-Olá, sou o Natã Martins, Desenvolvedor Front-End a mais de +3 anos, apaixonado por criar experiências de aplicações escaláveis, acessíveis e de alto desempenho, sempre com foco em performance, UX e código limpo.
+Olá, sou o Natã Martins, Desenvolvedor Front-End a mais de +4 anos, apaixonado por criar experiências de aplicações escaláveis, acessíveis e de alto desempenho, sempre com foco em performance, UX e código limpo.
 
 Atuo com tecnologias modernas como HTML5, CSS3, JavaScript ( ES6+), TypeScript, React.js, Next.js (SSR, SSG, App Router, Server Components), WCAG 2.1, Node.js, Princípios SOLID, modularização, Clean Architecture, performance, Components, Hooks, CI/CD e soluções BFF, REST APIs, Git & GitHub, testes automatizados (Jest, React Testing Library), acessibilidade digital (WCAG) e performance web, estilização com Tailwind CSS, Sass, Styled Components, Material UI, boas práticas de UI/UX com Figma, testes automatizados: Jest, Cypress, React Testing Library, arquiteturas modernas: PWA, microsserviços, CI/CD, Clean Code
 
